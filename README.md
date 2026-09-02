@@ -4,6 +4,8 @@
 
 Chairfly is a web and iOS aviation training platform designed to give pilots and aviation organizations a structured way to practice procedures and reinforce knowledge outside the aircraft.
 
+![Chairfly Dashboard](/Preview%20Image.png)
+
 I founded Chairfly in 2026 and have developed the platform across the stack—from product design and database architecture to backend services, web development, native iOS development, deployment, and production support.
 
 > **This repository is a technical showcase of the project. The production source code and implementation details are private.**
